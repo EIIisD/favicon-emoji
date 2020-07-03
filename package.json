@@ -1,0 +1,12 @@
+{
+  "name": "favicon-emoji",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Returns a URI Encoded svg for usage as a site favicon. Filters the emoji to given brand color.",
+  "repository": "https://github.com/eIIisd/favicon-emoji.git",
+  "author": "Ellis Donovan",
+  "license": "MIT",
+  "dependencies": {
+    "d3-color": "^1.4.1"
+  }
+}
